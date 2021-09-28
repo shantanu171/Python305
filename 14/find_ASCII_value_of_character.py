@@ -1,0 +1,6 @@
+print(12)
+print(ord("T"))
+print(ord('3'))
+print(ord('s'))
+print(ord('o'))
+print('tt')
